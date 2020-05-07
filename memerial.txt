@@ -1,0 +1,4 @@
+npm init -y
+git init
+npm i -D git-commit-msg-linter
+npm i -D typescript @types/node // super set do js / auxilia no intellisense
