@@ -1,0 +1,17 @@
+npm init -y
+git init
+npm i -D git-commit-msg-linter
+
+// super set do js / auxilia no intellisense
+npm i -D typescript @types/node 
+Criado o arquivo de configuração "tsconfig.json"
+
+
+//https://github.com/standard/eslint-config-standard-with-typescript
+//https://www.npmjs.com/package/eslint-config-standard-with-typescript
+npm install --save-dev eslint@6 eslint-plugin-standard@4 eslint-plugin-promise@4 eslint-plugin-import@2 eslint-plugin-node@11 @typescript-eslint/eslint-plugin@2 eslint-config-standard-with-typescript
+
+// VS Code - Extenções para ESLint
+// para TypeScript: "ESLint" - "VS Code ESLint extension"
+// Para Javascript: "StandardJS - JavaScript Standard Style"
+Criado o arquivo de configuração ".eslintrc.json"
