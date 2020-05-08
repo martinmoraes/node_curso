@@ -17,7 +17,7 @@ npm install --save-dev eslint@6 eslint-plugin-standard@4 eslint-plugin-promise@4
 Criado o arquivo de configuração ".eslintrc.json"
 
 
-// Evitar mau git commit, git pushe mais
+// Evitar um mau git commit, git pushe mais
 https://www.npmjs.com/package/husky
 npm i -D husky
 Criado o arquivo .huskyrc.json
@@ -29,3 +29,6 @@ Criado o arquivo de configuração ".lintstagedrc.json"
 //TDD
 npm i -D jest @types/jest ts-jest
 ./node_modules/.bin/jest --init
+Extensão Jest
+
+
