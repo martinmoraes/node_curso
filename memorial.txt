@@ -15,3 +15,14 @@ npm install --save-dev eslint@6 eslint-plugin-standard@4 eslint-plugin-promise@4
 // para TypeScript: "ESLint" - "VS Code ESLint extension"
 // Para Javascript: "StandardJS - JavaScript Standard Style"
 Criado o arquivo de configuração ".eslintrc.json"
+
+
+// Evitar mau git commit, git pushe mais
+https://www.npmjs.com/package/husky
+npm i -D husky
+Criado o arquivo .huskyrc.json
+//Agiliza o processo do eslint para não demorar o commit
+//Só verifica os arquivos que estão na area do staged (git)
+npm i -D lint-staged 
+Criado o arquivo de configuração ".lintstagedrc.json"
+
