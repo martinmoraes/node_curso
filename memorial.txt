@@ -26,3 +26,6 @@ Criado o arquivo .huskyrc.json
 npm i -D lint-staged 
 Criado o arquivo de configuração ".lintstagedrc.json"
 
+//TDD
+npm i -D jest @types/jest ts-jest
+./node_modules/.bin/jest --init
